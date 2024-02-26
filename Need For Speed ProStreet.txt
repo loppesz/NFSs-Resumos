@@ -1,3 +1,161 @@
 Need for Speed: Pro Street  é um jogo eletrônico de corrida de 2007 desenvolvido pela EA Black Box e publicado pela Electronic Arts. É a décima primeira edição da série Need for Speed ​​e uma continuação de Need for Speed: Carbon.[1] É o primeiro jogo Need for Speed ​​desenvolvido principalmente para consoles de sétima geração, como Xbox 360, PlayStation 3 e Wii, embora também tenham sido lançadas versões para Microsoft Windows e PlayStation 2.
 
 Ao contrário de seus antecessores imediatos, que se concentravam no cenário contemporâneo de corridas de rua ilegais, ProStreet se concentra em corridas de circuitos legais que acontecem em pistas fechadas. O jogo combina elementos de jogos de corrida e arcade, exigindo que os jogadores personalizem e ajustem seus carros para vários modos de corrida. A maioria das corridas acontece em locais do mundo real, como Portland International Raceway, Mondello Park e Autopolis.
+
+O jogo
+O Need For Speed: Pro Street contraria os últimos jogos da série. Desta vez o jogo não é sobre corridas ilegais como os últimos jogos da série (Hot Pursuit 2, Underground, Underground 2, Most Wanted e Carbon). Este jogo é sobre campeonatos legalizados e organizados por "patrocinadores" ao redor do mundo, com isso as corridas serão disputadas em locais fechados. O jogo tem corridas na América do Norte, Europa e Japão, onde todas as pistas serão locais, reais e com dias ensolaradosas, sem noites ou chuvas.
+
+Uma das inovações do NFS: Pro Street sem dúvida é o dano aos carros, que vem com força total neste jogo. O dano desta vez não é apenas aparente como nos jogos passados. Desta vez o dano terá 4 níveis distintos: o primeiro é o cosmetic damage, em que ocorrem apenas arranhões no carro, sem prejudicar seu desempenho (esse nível é visto apenas na contagem de pontos após o fim de uma corrida); o segundo nível é o light damage, um damage "leve" onde o carro sofrerá alguns danos visuais, mas nada que prejudique a pilotagem ou a corrida; o terceiro é o heavy damage, que já poderá prejudicar a performance do carro, podendo ser vital na hora de vencer uma corrida; e o quarto dano é o totaled, uma sentença de morte para a corrida, já que o carro capotará ou se danificará completamente. Não existe a opção de reiniciar o jogo nesse nível de dano, só arrumando o carro para poder usá-lo novamente, o que não será muito barato (a não ser que você ainda possua cupons para arrumar o carro).
+
+Dentre os danos aos carros há arranhões, perda de peças e também quebra dos para-brisas e vidros dos carros. Os danos sofridos levarão em conta o tipo de material da parte danificada (vidro, plástico, metal, carbono).
+
+Mas o dano aos carros não é só a única novidade do Pro Street, outra grande diferença do jogo é a fumaça (SMOKE). O que em jogos passado era apenas apelo visual para ficar bem na foto, agora prestar atenção na fumaça pode garantir uma vitória; dependendo da fumaça dos pneus o usuário poderá saber sobre o desgaste dos mesmos. Se de repente começar a sair fumaça do radiador, algo deve estar errado.
+
+Uma outra novidade é a física (physics) do jogo, que vem para quebrar a idéia de que NFS é muito fácil e muito arcade. O jogo vem bem mais real que todos os anteriores da série, englobando o arcade com uma jogabilidade de simulador, onde os jogadores terão que realmente pilotar para poder vencer. Pensando também nos jogadores não tão fãs de jogabilidades reais foram introduzidos no jogo alguns "ajudantes", onde ativando-os o usuário poderá pilotar mais facilmente. Estes ajudantes são basicamente controle de tração e freios ABS, e desligando-os, o usuário poderá notar a grande diferença em pilotar com ou sem "ajuda".
+
+Inovando ainda mais os jogos da série, o NFS Pro Street continua com o tuning, onde como nos últimos jogos da série o usuário poderá montar o carro a seu gosto. O sistema de Autosculpt introduzido no Carbon continua, mas desta vez prometendo ser muito melhor, onde os jogadores poderão mexer e ajustar praticamente todas as peças do carro. A inovação não é só o Autosculpt mais real: as mudanças na "carenagem" do carro desta vez farão diferença nos carros em sua performance como, por exemplo, na aerodinâmica, aonde um ajuste bem feito fará com que seu carro vá além do carro do seu oponente. Para ajudar neste ajuste o jogo traz de volta o Dyno (dinamômetro NFSU2) e vem com uma novidade: o túnel de vento onde o jogador poderá fazer testes na aerodinâmica do carro, tendo como base um gráfico que será mostrado.
+
+As peças de instalação dos carros vem de 2 formas distintas, para que o jogador escolha a melhor forma de melhorar seu carro. As peças poderão ser instaladas nos carros individualmente ou por pacotes. Instalando peças individuais os jogadores poderão tirar o máximo de cada carro fazendo o melhor ajuste possível de peças e regulagens.
+
+As partes visuais dos carros também sofreram pequenas alterações, como por exemplo os decals, agora você só poderá usar um decal da GReddy se você tiver alguma peça da GReddy instalada, e cada marca irá funcionar no jogo exatamente como na vida real, ou seja, um turbo da GReddy é diferente de um turbo da HKS. Diferente também é algo relacionado à "carenagem": você não possui a opção de instalar separadamente os "para-choques", apenas existem body kits completos para você escolher.
+
+Carros
+NFS: Pro Street traz ao jogo mais de 50 carros dos últimos 40 anos divididos em 26 fabricantes diferentes; dentre estes carros, teremos 28 super carros (como a Lamborghini Murciélago LP640) que só estarão disponíveis ao final do jogo, quando os seus carros sendo bem montados poderão competir de igual para igual com estas super máquinas. Alguns necessitam de pacotes para serem acessados.
+
+Aston Martin DB9 (2004) (Premium Car Bundle 2)
+Aston Martin DBR9 (2005) (Premium Car Bundle 1)
+Acura Integra TypeR (2000)
+Acura Integra LS (1998) (Collector's Edition)
+Acura NSX (2002) (Collector's Edition)
+Acura RSX (2006)
+Audi RS4 (2006) (Collector's Edition)
+Audi R8 4.2 FSI quattro (2007) (Premium Car Bundle 2)
+Audi S3 (2007)
+Audi S4 (2006)
+Audi TT Quattro (2007)
+BMW M3 (E92) (2008)
+BMW M3 (E46) (2000)
+BMW Z4 (2006)
+Bugatti EB Veyron 16.4 (2005)
+Cadillac CTS-V (2004)
+Chevrolet Camaro SS (1968)
+Chevrolet Camaro Concept (2007)
+Chevrolet Chevelle (1970)
+Chevrolet Cobalt SS (2005)
+Chevrolet Corvette C2 (1963)
+Chevrolet Corvette C6 (2005)
+Chevrolet Corvette C6 Z06 (2007)
+Dodge Viper SRT10 (2003)
+Dodge Challenger R/T (1971)
+Dodge Charger R/T (1969)
+Ford Focus ST (2006)
+Ford Escort RS Cosworth (1992)
+Ford GT (2004)
+Ford Mustang GT (2003)
+Ford Mustang GT (2006)
+Shelby GT500 (1967)
+Ford Mustang Shelby GT500 (2007)
+Honda Civic Hatchback (1998)
+Honda Civic SI (2006)
+Honda S2000 (1999) (Premium Car Bundle 2)
+Infiniti G35 (2003)
+Koenigsegg CCX (2006) (Premium Car Bundle 2)
+Lamborghini Murciélago LP640 (2006)
+Lamborghini Gallardo Superleggera (2007) (Premium Car Bundle 1)
+Lexus IS350 (2006) (Collector's Edition)
+Lotus Elise (2006)
+Mazda RX-7 (1995)
+Mazda RX-8 (2003)
+Mazda Mazdaspeed3 (2007)
+Mitsubishi Eclipse GSX (1999)
+Mitsubishi Lancer Evolution IX MR (2006)
+Mitsubishi Lancer Evolution X(2007)
+Nissan 240SX SE (S13) (1989)
+Nissan 350Z (2006)
+Nissan GT-R PROTO (2005)
+Nissan Silvia (1999)
+Nissan Skyline GT-R (R34) V-Spec (1999)
+Nissan GT-R (R35) (2007)
+Pagani Zonda F(2005)
+Plymouth® Hemi® Cuda (1970)
+Plymouth® Road Runner (1968) (Booster Pack)
+Pontiac GTO (1965)
+Pontiac GTO (2005)
+PontiacSolstice GXP (2006) (Collector's Edition)
+Porsche 911 Turbo (2006)
+Porsche Cayman S (2005)
+Porsche Carrera GT (2004) (Premium Car Bundle 1)
+Porsche 911 GT2 (2007)
+Porsche 911 GT3 (2006) (Premium Car Bundle 2)
+Seat León Cupra (2005) (Booster Pack)
+Subaru Impreza WRX STi (2006)
+Toyota Corolla GT-S (AE86) (1986)
+Toyota Supra (1992)
+Volkswagen Golf GTi (2005)
+Volkswagen R32 (2005)
+Cinco veículos adicionais estão disponíveis com o pacote de atualização do Collector's Edition para Need for Speed: ProStreet.
+
+Mais dezesseis veículos foram disponibilizados com o lançamento do Booster Pack em 18 de dezembro de 2007 para PC com os lançamentos do PlayStation 3 e Xbox 360 ocorridos em 17 de fevereiro de 2008.
+
+Ao todo são 76 carros.
+
+Modos
+Os modos de jogo serão 9 (4 principais e 5 variações): Drag, Drift, Speed Challenge, Grip , Wheelie, Sector Shootout, Time Attack, Grip Class e Top Speed Run.
+
+Drift: Como nos jogos anteriores que têm esse modo, quem tiver o maior bônus de derrapagens até o final ganha, em 3 rounds diferentes.
+Drag: Como antigamente,você tem transmissão manual obrigatoriamente, tendo cuidado para não bater o carro. Porém, assim como o modo drift, a corrida é dividida em 3 rounds; aonde quem tiver o menor tempo até o final do último round ganha.
+Wheelie Competition: modo de competição similar ao drag, mas com o objetivo de empinar o carro pela maior distância possível, mantendo empinado através das trocas de marchas perfeitas; os melhores carros para essa modalidade (e únicos capazes disso) são os carros de tração traseira, especialmete os muscle cars.
+Speed Challenge: É o famoso Sprint, aonde ganha quem chegar no final da corrida primeiro.
+Top Speed Run: similar ao Speed Challenge, porém baseado no clássico Speedtrap: ganha o corredor que possui a maior soma de velocidade pelos checkpoints. No entanto, dessa vez, não existe a punição de velocidade quando um corredor chega primeiro, logo não há pressa para chegar em primeiro lugar no destino (embora o tempo de corrida pode te dar pontos extras ao final do evento).
+Grip: Nada mais nada menos que o velho Circuit, aonde haverá um percurso fechado e repetido por determinado número de voltas; ganha quem terminar o percurso primeiro. O modo inclui outras variações, que serão mostradas a seguir.
+Sector Shootout: cada corredor tem uma certa quantidade de strikes (pontos decrescentes), e a corrida possui 4 checkpoints no decorrer do percurso. É necessário passar rapidamente por esses checkpoints, com o objetivo de manter a maior quantidade de strikes possível ao passar por eles. Ganha quem terminar a corrida com a maior pontuação.
+Time Attack: o objetivo é ter o menor tempo em uma das voltas entre os demais corredores.
+Grip Class: é um modo de Grip disponível apenas para PC, Xbox 360 e PlayStation 3. A corrida será dividida em duas classes, denominadas "A" (para os carros de menor potência) e "B" (para os de maior potência). Você pode cair em qualquer uma dessas classes, dependendo da performance do seu carro, e você compete apenas com pilotos da sua classe. Ganha o piloto que chegar primeiro na linha de chegada antes dos demais pilotos de sua classe.
+Como são 9 modos de jogo, os jogadores irão escolher 4 carros diferentes (já que Sector Shootout, Grip Class e Time Attack são variações do Grip, o Top Speed Run é uma variação do Speed Challenge, e as Wheelie Competitions são variações do Drag), um para cada modo de jogo, deixando os carros ajustados e afinados para se ter a melhor performance e garantir a vitória.
+
+Músicas
+As músicas serão quase todas criadas/remixadas por Junkie XL que já participou do NFS Carbon com as músicas Melody: Feel The Rush e Yonderboi: People Always Talk About The Weather, do NFS Underground com a música Action Radius, e do NFS High Stakes com as músicas War, Fight, Def Beat e No Remorse. A trilha sonora terá Hard Rock, Metal, Techno, Eletrônicas e Punks’s.
+
+Lista oficial de músicas
+Airbourne - Blackjack
+Avenged Sevenfold - Almost Easy
+Bloc Party - Prayer (Does It Offend You, Yeah? Remix)
+Chromeo - Fancy Footwork (Guns 'N Bombs Remix)
+The Clutch - Power Player
+CSS - Odio Odio Odio Sorry C
+Datarock - I Used To Dance With My Daddy (Karma Harvest Mix)
+Digitalism - Pogo
+Dude 'N Nem - Watch My Feet
+DÚNÉ - A Blast Beat
+Foreign Islands - We Know You Know It
+Junkie XL feat. Lauren Rocket - More (Junk O Flamenco Remix)
+Junkie XL feat. Lauren Rocket - More (Junk O Rock Remix)
+Junkie XL feat. Lauren Rocket - More (Junk O Punk Remix)
+Junkie XL feat. Lauren Rocket - More
+Klaxons - Atlantis To Interzone
+MSTRKRFT - Neon Knights
+Neon Plastix - On Fire
+Peaches - Boys Wanna Be Her (Tommie Sunshine's Brooklyn Fire Retouch)
+Plan B - More Is Enough feat. Epic Mac
+Plan B - No Good (Chase & Status and Benni G Remix)
+Smallwhitelight - Spite
+The Faint - Dropkick The Punks
+The Horrors - Draw Japan
+The Rapture - The Sound
+The Toxic Avenger - Escape (Bloody Beetroots Remix)
+TV On The Radio - Wolf Like Me
+UNKLE - Restless feat. Josh Homme
+We Are Wolves - Fight And Kiss
+Wiley - Bow E3
+Yeah Yeah Yeahs - Kiss Kiss
+Year Long Disaster - Leda Atomica
+Yelle - A Cause Des Garcons (Riot In Belgium Remix)
+Músicas bônus
+Junkie XL - Bezel
+Junkie XL - Decalomania
+Junkie XL - Idler Lever
+Junkie XL - 327 - V8
+Junkie XL - Brake Pipe and Hose
+Junkie XL - Clevis
+Junkie XL - Choke
+Junkie XL - Dampener Rod
