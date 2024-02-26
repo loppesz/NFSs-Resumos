@@ -1,1 +1,293 @@
-FIFA 14 é um jogo eletrônico de simulação de futebol desenvolvido pela EA Sports e publicado pela Electronic Arts. Foi lançado em Setembro de 2013 para PlayStation 2, PlayStation 3, PlayStation Portable, PlayStation Vita, XBOX 360, Wii, Nintendo 3DS e Microsoft Windows. O jogo também ganhou uma versão para Windows Phone, iOS e Android. A versão para PlayStation 4 e Xbox One foi lançada em Novembro de 2013. Também conhecido por ser o último jogo lançado para a plataforma PlayStation 2.[1]
+FIFA 14 - RESUMO WIKIPÉDIA
+
+FIFA 14 é um jogo eletrônico de simulação de futebol desenvolvido pela EA Sports e publicado pela Electronic Arts. Foi lançado em Setembro de 2013 para PlayStation 2, PlayStation 3, PlayStation Portable, PlayStation Vita, XBOX 360, Wii, Nintendo 3DS e Microsoft Windows. O jogo também ganhou uma versão para Windows Phone, iOS e Android. A versão para PlayStation 4 e Xbox One foi lançada em Novembro de 2013. Também conhecido por ser o último jogo lançado para a plataforma PlayStation 2.
+
+Características
+As principais características estão listadas abaixo. A EA decidiu este ano se concentrar mais na experiência on-line. Isto por causa de características previamente apreciada pelos jogadores, como torneios personalizados e amistosos entre usuários. Um número de usuários se queixaram de diversos bugs e falhas que a EA espera erradicar através do processo de patches. O Aka Scripting também prevalece este ano para aumentar a emoção dos jogos entre os 45 e 90 minutos (ou seja, ao longo do segundo tempo de jogo). O jogo facilita gols aos 90 min, alem de sair gols de cabeça facilmente.
+
+Motor Ignite
+Um novo motor de jogo chamado Ignite está sendo usado nas versões de Xbox One e PlayStation 4 do FIFA 14. Esse motor faz com que os gráficos e a jogabilidade fiquem ainda mais "naturais" e faz com que os jogadores reajam durante o jogo de uma forma mais aproximada da realidade.[2] A versão para Windows também utilizaria o Ignite, mas o motor Impact (utilizado nas versões de Xbox 360 e PlayStation 3) foi utilizado devido a alegações da EA que nem todos os jogadores de PC dispõem de computadores poderosos o suficiente para suportar as melhorias gráficas proporcionadas pelo Ignite, que será utilizado apenas na versão seguinte.
+
+Licenças
+21 clubes brasileiros são licenciados: as 20 equipes do Campeonato Brasileiro Série A 2013 (inicialmente o Bahia não estava licenciado, mas uma atualização posterior incluiu seu escudo e uniformes no jogo), mais o Palmeiras que, por ter disputado a Série B do Campeonato Brasileiro de 2013, está no bloco "Resto do Mundo"; no entanto, este foi o último FIFA a contar com todas as equipes do Campeonato Brasileiro e os jogadores oficiais de cada clube, devido a problemas de licenciamento com os jogadores.[3] FIFA 14 também inclui o Campeonato Chileno [4], Liga Postobón (Colômbia) e a Argentina Primera División, sendo esta a primeira edição que conta com outros campeonatos sul-americanos além do Brasileiro.[5] Pela primeira vez desde FIFA 10, a seleção brasileira foi totalmente licenciada para o jogo. Após o anúncio de Robert Lewandowski na capa polonesa do jogo, foi divulgado também que a seleção polonesa e a Ekstraklasa foram licenciadas para FIFA 14. A seleção do País de Gales também foi licenciada.
+
+Ligas
+Alemanha 1. Bundesliga
+Alemanha 2. Bundesliga
+Arábia Saudita Saudi Professional League
+Argentina Primera División Argentina novo
+Austrália Nova Zelândia A-League
+Áustria Bundesliga Austríaca
+Bélgica Jupiler Pro League
+Brasil Liga do Brasil
+Chile Campeonato Petrobras novo
+Colômbia Liga Postobón novo
+Coreia do Sul K-League
+Dinamarca Superliga
+Escócia Scottish Premier League
+Espanha La Liga BBVA
+Espanha Liga Adelante BBVA
+Estados Unidos Canadá Major League Soccer
+França Mónaco Ligue 1
+França Ligue 2
+Países Baixos Eredivisie
+Inglaterra País de Gales Barclays Premier League
+Inglaterra País de Gales Npower Football League Championship
+Inglaterra País de Gales Npower Football League
+Inglaterra País de Gales Npower Football League
+República da Irlanda Irlanda do Norte Airtricity League
+Itália Série A
+Itália Série B
+México Liga Bancomer MX BBVA
+Noruega Tippeligaen
+Polónia Ekstraklasa
+Portugal Liga Zon Sagres
+Rússia SOGAZ Liga
+Suécia Allsvenskan
+Suíça Raiffeisen Super League
+Legenda novo - Primeira vez incluso no FIFA
+
+Copas Nacionais
+Alemanha DFB-Pokal
+Arábia Saudita Crown Prince Cup
+Áustria ÖFB-Samsung-Cup
+Bélgica Coupe de Belgique
+Brasil Copa do Brasil
+Dinamarca DBU Pokalen
+Escócia Scottish Cup
+Espanha Copa del Rey
+Estados Unidos U.S. Open Cup
+França Coupe de la Ligue
+França Coupe de France
+Países Baixos KNVB Beker
+Inglaterra Capital One Cup
+Inglaterra F.A. Cup
+Inglaterra Johnstone's Paint Trophy
+Itália Coppa Italia
+Noruega Copa NM Braathens
+Polónia Copa Polaca
+Portugal Taça Portugal
+Rússia Russian Cup
+Suécia Svenska Cupen
+Suíça Coupe de Suisse
+
+Supercopas
+Alemanha DFL-Supercup
+Espanha Supercopa de España
+França Trophée des Champions
+Inglaterra F.A. Community Shield
+Itália Supercoppa
+
+Copas Continentais
+Europa Champions Cup (equivalente a UEFA Champions League)
+Europa Euro Cup (equivalente a UEFA Europa League)
+Europa Supercup (equivalente a UEFA Supercup)
+Copa A. Latina (equivalente a Copa Libertadores da América)
+
+Times do Resto do Mundo
+Grécia AEK de Atenas
+Turquia Galatasaray Spor Kulübü
+Argentina Independiente novo
+África do Sul Kaizer Chiefs
+Grécia Olympiakos
+África do Sul Orlando Pirates
+Brasil Palmeiras
+Grécia Panathinaikos
+Grécia PAOK
+Escócia Rangers
+Ucrânia Shakhtar Donetsk novo
+Seleção Clássica
+Seleção do Mundo
+Adidas All-Stars ( Não presente no PS2)
+Estados Unidos MLS All-Stars
+Legenda novo - Primeira vez incluso no FIFA
+
+Seleções
+Bandeira da África do Sul África do Sul
+Alemanha Alemanha
+Argentina Argentina
+Austrália Austrália
+Áustria Áustria
+Bélgica Bélgica
+Bolívia Bolívia
+Brasil Brasil
+Bulgária Bulgária
+Camarões Camarões
+Chile Chile
+Colômbia Colômbia
+Costa do Marfim Costa do Marfim
+Coreia do Sul Coreia do Sul
+Dinamarca Dinamarca
+Equador Equador
+Egito Egito
+Escócia Escócia
+Eslovénia Eslovênia
+Espanha Espanha
+Estados Unidos Estados Unidos
+Finlândia Finlândia
+França França
+Grécia Grécia
+Hungria
+Índia
+Inglaterra Inglaterra
+República da Irlanda Irlanda
+Irlanda do Norte Irlanda do Norte
+Itália Itália
+México México
+Noruega Noruega
+Nova Zelândia Nova Zelândia
+País de Gales País de Gales novo
+Países Baixos Países Baixos
+Paraguai Paraguai
+Peru Peru
+Polónia
+Portugal Portugal
+Chéquia Tchéquia
+Roménia Romênia
+Rússia Rússia
+Suécia Suécia
+Suíça Suíça
+Turquia Turquia
+Uruguai Uruguai
+Venezuela Venezuela
+Legenda novo - Primeira vez incluso/retornando ao FIFA
+
+Competições Internacionais
+ Campeonato Mundial (equivalente a Copa do Mundo)
+ Copa das Confederações
+Europa Campeonato Europeu (equivalente a Euro Copa)
+ Campeonato Americano (equivalente a Copa América)
+
+Ultimate Team
+O Ultimate Team contará com conteúdo exclusivo para o XBOX One.[6] O novo recurso é o modo Legends, onde é possível adquirir jogadores clássicos de diferentes épocas do futebol, como Pelé e Dennis Bergkamp. A EA também anunciou o retorno do "Amistoso On-Line", onde os usuários podem jogar em jogos que não contribuem para torneios ou temporadas. Agora também é possível procurar por nomes no mercado de transferências na tela do time. Também é possível editar os números dos jogadores e o papel deles em faltas e escanteios. A temporada do FUT se estendem de 5 a 10 divisões. Você também pode "transportar" moedas do XBOX 360 para o XBOX One e do PS3 ao PS4.[7]
+
+Estádios
+O jogo contém 62 estádios, incluindo 32 locais do mundo real. Novas adições incluem o La Bombonera, em Buenos Aires; o Goodison Park, em Liverpool; e a Donbass Arena, na Ucrânia, sede do Shakhtar Donetsk. O Camp Nou, de Barcelona, que foi excluído de FIFA 13 por questões de licenças, volta a ser incluído em FIFA 14.[8]
+
+Lista de Estádios Licenciados
+Alemanha Allianz Arena (FC Bayern München e TSV 1860 Münich)
+Países Baixos Amsterdam Arena (Ajax)
+Inglaterra Anfield (Liverpool FC)
+Canadá BC Place (Vancouver Whitecaps)
+Espanha Camp Nou (FC Barcelona)
+Ucrânia Donbass Arena (FC Shaktar)
+Inglaterra Emirates Stadium (Arsenal FC)
+México Estadio Azteca (Club América, México)
+Espanha Estádio Mestalla (Valencia CF)
+Espanha Estádio Vicente Calderón (Club Atlético Madrid)
+Inglaterra Etihad Stadium (Manchester City FC)
+Inglaterra Goodison Park (Everton FC)
+Alemanha Imtech Arena (HSV Hamburg)
+Itália Juventus Stadium (Juventus FC)
+Arábia Saudita King Fahd International Stadium (Arábia Saudita)
+Argentina La Bombonera (Boca Juniors)
+Inglaterra Old Trafford (Manchester United FC)
+Alemanha Olympiastadion (Hertha BSC Berlim)
+França Parc des Princes (PSG)
+Itália San Siro (AC Milan/Inter de Milão)
+Espanha Santiago Bernabéu (Real Madrid CF)
+Alemanha Signal Iduna Park (Borussia Dortmund)
+Inglaterra St. James Park (Newcastle United)
+França Stade Gerland (Olympique Lyonnais)
+França Stade Vélodrome (Olympique de Marseille)
+Itália Stadio Olimpico (SS Lazio/AS Roma)
+Inglaterra Stamford Bridge (Chelsea FC)
+Alemanha Veltins-Arena (Schalke 04)
+Inglaterra Wembley Stadium (Inglaterra)
+Inglaterra White Hart Lane (Tottenham Hotspur)
+
+Estádios Fictícios
+
+Nova Zelândia Akaaroa Stadium
+Estados Unidos Aloha Park
+ Arena D'Oro
+Uruguai Arena del Centenario (versão genérica do Estádio Centenario (Peñarol, Nacional e Uruguai)
+Reino Unido Court Lane
+Reino Unido Crown Lane
+Brasil O Dromo (versão genérica do Maracanã) (Flamengo, Fluminense e Brasil))
+Estados Unidos Eastpoint Arena
+Espanha El Libertador (versão genérica do Camp Nou (Barcelona))
+Argentina El Monumento (versão genérica do Monumental de Nuñes) (River Plate e Argentina))
+Japão Estádio de las Artes (versão genérica do Saitama Stadium (Urawa Red Diamonds))
+Espanha ou  Estadio Nacional
+Estadio Presidente G. Lopes
+Europa Euro Park
+Brasil FIWC Stadium (exclusivo PS3)
+Reino Unido Forest Park Stadium
+Reino Unido Ivy Lane
+Peru ou Equador La Canchita
+Reino Unido Molton Road
+Polónia Sanderson Park (versão genérica do Stadion Miejski (Lech Poznan))
+França Stade Kokoto
+Suíça Stade Municipal (versão genérica do Stade de Suisse, Wankdorf (BSC Young Boys))
+Itália Stadio Classico (versão genérica do Estádio Artemio Franchi (Fiorentina))
+Itália Stadio Comunale
+Alemanha Stadion 23. Maj
+Europa Stadion Europa
+Coreia do Sul Stadion Hanguk (versão genérica do Daegu World Cup Stadium (Daegu FC))
+Países Baixos Neder Stadion
+Rússia Stadion Olympic (versão genérica do Luzhniki Stadium (FC Spartak Moscow e Rússia))
+Reino Unido Town Park
+Reino Unido ou Estados Unidos Union Park Stadium
+Alemanha Waldstadion
+
+Trilha Sonora
+
+Inglaterra The 1975 - "The City"
+Estados Unidos American Authors - "Hit It"
+Inglaterra Amplify Dot - "Get Down"
+Inglaterra Bloc Party - "Ratchet"
+Estados Unidos The Chain Gang of 1974 - "Miko"
+Escócia CHVRCHES - "We Sink"
+Estados Unidos The Colourist - "Little Games (St. Lucia Remix)"
+Inglaterra Crystal Fighters - "Love Natural"
+Inglaterra Dan Croll - "Compliment Your Soul"
+Nova Zelândia David Dallas - "Runnin'"
+Países Baixos De Staat - "Downtown"
+Inglaterra Disclosure - "F for You"
+Austrália Empire of the Sun - "Alive"
+Inglaterra Foals - "My Number (Trophy Wife Remix)"
+Estados Unidos Grouplove - "I'm With You"
+Estados Unidos Guards - "I Know It's You"
+Argentina Illya Kuryaki and the Valderramas - "Funky Futurista"
+Inglaterra Jamie N Commons - "Marathon"
+Inglaterra John Newman - "Love Me Again"
+Brasil Karol Conká - "Boa Noite"
+Estados Unidos Los Rakas - "Hot"
+Brasil Marcelo D2 - "Você Diz Que o Amor Não Dói"
+Inglaterra Miles Kane - "Don't Forget Who You Are"
+Nova Zelândia The Naked and Famous - "Hearts Like Ours"
+Estados Unidos Nine Inch Nails - "Copy of A"
+Alemanha OK Kid - "Am Ende"
+Estados Unidos Oliver - "Mechanical"
+Austrália Olympic Ayres - "Magic"
+Estados Unidos Portugal. The Man - "Purple, Yellow, Red and Blue"
+Estados Unidos Robert DeLong - "Here"
+Estados Unidos Rock Mafia feat. Wyclef Jean & David Correy - "I Am"
+Suécia The Royal Concept - "On Our Way"
+Estados Unidos Smallpools - "Dreaming"
+Estados Unidos Vampire Weekend - "Worship You"
+Inglaterra Wretch 32 - "24 Hours"
+Inglaterra You Me at Six - "Lived a Lie"
+Lançamento
+Uma versão de demonstração do jogo foi lançada em 10 de Setembro de 2013, duas semanas antes do lançamento oficial do jogo. As equipes incluídas na demonstração eram PSG, Barcelona, Manchester City, Tottenham Hotspur, Milan, Borussia Dortmund, New York Red Bulls e Boca Juniors.[9]
+
+A versão para Wii, PS2, PSP, PSVita e Nintendo 3DS foi lançado como FIFA 14: Legacy Edition e possui jogabilidade e recursos iguais aos lançamentos anteriores da série FIFA, com apenas os uniformes e jogadores atualizados. As versões de Wii, PS2 e PSP só estão disponíveis na Europa e na América Latina.[10]
+
+Capa
+O argentino Lionel Messi retorna à capa global mais uma vez, como aconteceu em FIFA 13 e FIFA Street.[11] Pela primeira vez o nome FIFA Soccer não foi utilizado na América do Norte. Os EUA possuem a capa global e uma capa com Javier Hernández.[12] Inicialmente, Gareth Bale apareceu na capa da versão do Reino Unido e Irlanda com o uniforme do Tottenham Hotspur, mas depois de sua transferência para o Real Madrid, a EA atualizou seu uniforme como sendo do clube merengue.[13]
+
+Jogadores ao lado de Messi em suas respectivas regiões incluem:
+
+Austrália e Nova Zelândia: Tim Cahill
+Áustria: David Alaba
+América Central e do Sul (excepto o Brasil): Arturo Vidal e Radamel Falcao García
+República Checa: Michal Kadlec
+Hungria: Balázs Dzsudzsák
+Itália: Stephan El Shaarawy
+Japão: Maya Yoshida e Makoto Hasebe
+Oriente Médio: Mustafa Al-Bassas
+América do Norte: Javier Hernández
+Polónia: Robert Lewandowski
+Suíça: Xherdan Shaqiri
+Reino Unido e República da Irlanda: Gareth Bale
