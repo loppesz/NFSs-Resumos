@@ -1,3 +1,97 @@
+Need for Speed World (anteriormente conhecido como Need for Speed: World Online) foi o 15º jogo da longa franquia de jogos de corrida Need for Speed publicado pela Electronic Arts. Esta iteração foi codesenvolvida pela EA Black Box e EA Singapore. Foi lançado mundialmente em 27 de julho de 2010, e teve seus servidores desativados em 14 de julho de 2015 por sua desenvolvedora, junto com outros três títulos free-to-play: Battlefield Heroes, Battlefield Play4Free, e FIFA World.[1]
+
+Após o desligamento dos servidores, esforços de preservação dos fãs ressuscitaram o jogo como um título freeware não oficial, com os primeiros servidores online em 2017.
+
+Need for Speed World
+
+Desenvolvedora(s)	EA Black Box
+EA Singapore
+Quicklime Games
+Publicadora(s)	Electronic Arts
+Compositor(es)	Mick Gordon
+Motor	EAGL
+Série	Need for Speed
+Plataforma(s)	Microsoft Windows
+Lançamento	27 de julho de 2010[2]
+Gênero(s)	MMORG
+Modos de jogo	Multijogador
+
+Need for Speed: Nitro
+Need for Speed: Hot Pursuit	
+
+Jogabilidade
 NFS World tem um estilo de jogo semelhante ao Most Wanted de 2005 e Carbon de 2006, com foco em corridas de rua ilegais, tuning e perseguições policiais, e adicionou alguns elementos ao jogo, como "power-ups" (algo semelhante a Mario Kart). World foi ambientado em uma cidade fictícia que combinou as cidades de Rockport de Most Wanted e Palmont de Carbon em seu design de mapa, com gráficos redesenhados e novos locais adicionados ao mapa para conectar as duas cidades. O jogo apresentava mais de 100 carros licenciados, consistindo em várias variações diferentes de alguns. Os fabricantes variaram de Alfa Romeo a Volkswagen e havia mais de trinta fabricantes no jogo.
 
 Inicialmente, após atingir um determinado nível, o jogador não conseguiria progredir mais no jogo e deixaria de ganhar mais pontos de experiência ou dinheiro. Para continuar o jogo, o jogador deveria adquirir um "Starter Pack". Sem ele, o jogador poderia continuar jogando, mas deixaria de ganhar experiência e dinheiro. Em 8 de setembro de 2010, em comemoração ao jogo atingir 1.000.000 de registros, o jogo foi totalmente gratuito e o limite de nível foi removido.
+
+Rodagem Livre
+Os jogadores podiam correr em todo o mapa, podendo ver os outros usuários, no entanto, não podem colidir com eles.
+
+Os veículos policiais foram retirados das ruas em 16 de Novembro de 2011. Antes disso, se o jogador colidisse com uma viatura de patrulha na rodagem livre, uma perseguição era iniciada. Após a retirada, uma perseguição só poderia ser iniciado entrando em um dos eventos chamados de "Pursuit" (Perseguição)
+
+Tipos de Eventos
+O World tem uma variedade razoável de modos de jogo:
+
+Arrancada (Drag) - Corridas feitas em câmbio manual ou automático (o tipo de câmbio era escolhido pelo jogador) utilizando a aceleração dos carros. Estão disponíveis apenas para modo Multiplayer, exceto a Gridlock, que pode ser feita em Singleplayer (um jogador).
+Circuito - Corridas feitas em um número de voltas que variava, mas um powerup poderia ser acionado por um dos jogadores e era adicionada uma volta.
+Pontos de Encontro - Locais nos quais os jogadores podem encontrar outros jogadores e tirar fotos de seus carros.
+Perseguição - Neste modo seu objetivo é fugir da polícia. Disponível apenas para um jogador.
+Sprint - Corrida ponto a ponto.
+Fuga em Equipe - Perseguição ponto a ponto no qual no máximo 4 jogadores se ajudam entre si para fugir. Disponível apenas para Multiplayer.
+Caça ao tesouro - Na rodagem livre podia ser feita a Caça ao Tesouro, que oferecia prêmios quando o jogador procurava 15 gemas espalhadas pelo mapa em uma região específica. Esses prêmios ficavam mais valiosos caso o jogador continuasse recolhendo as gemas diariamente.
+Perfil do Piloto
+O Perfil do Piloto é mais ou menos uma planilha de todos os eventos que você correu, os que você ganhou e os que você perdeu. Este recurso não está mais disponível, após a chegada das Conquistas.
+
+Conquistas
+As conquistas foram introduzidas ao World em 10 de Abril de 2013. Você deve seguir uma série de coisas para completar determinado objetivo e receber uma recompensa. Junto com essas, foram introduzidas quatro novas edições especiais do BMW M3 E92, Ford Focus RS, Koenigsegg CCX, Lamborghini Gallardo Vallentino Balboni e Nissan Fairlady 240ZG. Também foi introduzido, como recompensa ao atingir os 5000 Pontos de Conquista, o Bugatti Veyron.
+
+Carros
+Após alcançar o nível 10 e acessar apenas carros nível 1 e certos nível 2, o jogador não seria capaz de progredir mais no jogo e pararia de ganhar mais pontos de experiência ou dinheiro. Para continuar o jogo, o jogador tinha que comprar o Need for Speed World Starter Pack. Sem isso, o jogador poderia jogar o jogo durante o tempo que ele quisesse, no entanto pararia de ganhar experiência e dinheiro.[3]
+
+Existem duas moedas correntes no jogo: IGC (in-game cash), dinheiro que pode ser recebido terminando corridas ou realizando a Caça ao Tesouro e SpeedBoost que era adquirido realizando compra com dinheiro real. Alguns carros não são gratuitos e requerem gasto com o SpeedBoost para compra. Alguns carros que podem ser adquiridos com dinheiro do jogo (IGC), podem ter uma edição especial que requer SpeedBoost para aluguel ou compra. Os carros com Jamanta são especialmente pesados para Fuga em Equipe e requerem também SpeedBoost para compra. Os carros com Edição Caça ao Tesouro podem detectar as 15 jóias no mapa principal para caça mais rápida; estes requerem também SpeedBoost para compra.
+
+No começo, os carros possuíam os níveis 1, 2 e 3. Logo após a atualização da inserção das conquistas, eles foram divididos em classes que são organizadas por pontuações do carro que é uma média entre dirigibilidade, velocidade, etc que podem variar entre 0 e 1000 pontos. Essas classes são: (menor) E, D, C, B, A e S (maior) Observação: os carros não serão colocados pois vivem saindo para a entrada de outros carros.
+
+Pagani Zonda F Roadster VIP
+A edição "VIP" foi lançado no final de Julho de 2012. O carro também apresenta uma placa com nomenclatura "VIP" única.
+
+O Zonda F Roadster só pode ser obtido por fazer parte do Clube VIP. Como a adesão pode ser obtida e como é seu processo de seleção é desconhecido. No entanto, o Clube VIP está sendo anunciado como "Need for Speed World mais valiosos clientes".
+
+Em 11 de novembro de 2014, o Zonda F Roadster foi disponibilizado para compra no negociante de carros por apenas 24 horas para celebrar o aniversário do visionário argentino Horacio Pagani. O preço foi de 10,000 SB.
+
+No dia 10 de julho de 2015, 74,160 Zonda F Roadster VIP foram distribuídos aos jogadores que jogaram os eventos de sábado, 4 de julho como parte do evento "Fim do Mundo".
+
+Desenvolvimento
+Inicialmente, o jogo foi anunciado como free-to-play. Em outubro de 2009, World foi aberto ao público para testes em sua fase beta, limitado aos residentes de Taiwan. No total, foram sete sessões nos testes fechados. Com exceção da primeira, todas foram disponibilizadas mundialmente aos jogadores que se registraram, atenderam aos critérios de admissão e foram aceitos.
+
+A parte principal do mapa do jogo foi concluída em 26 de outubro de 2010, quando as três áreas finais (Downtown Rockport, Kempton, Fortuna) e a ponte Turnpike foram adicionadas ao mapa.
+
+Com o tempo, a prioridade no desenvolvimento do jogo mudou para o foco no aumento da receita, então planos como adicionar os desfiladeiros de Carbon ao mapa, conclusão da área de link final e adição do mapa de Need for Speed: Undercover ao jogo foram derrubado. Eventualmente, a maior parte do desenvolvimento se concentrou em adicionar mais carros ao jogo, já que os carros ajudavam a aumentar a receita, e o jogo evoluiu para um jogo "pague para ganhar", já que os melhores carros só podiam ser comprados com dinheiro real.
+
+A equipe EA Canada World, mais tarde denominada Quicklime Games [1] , que era responsável pelo desenvolvimento, manutenção e atualizações do jogo, foi encerrada em 25 de abril de 2013.
+
+Em 10 de setembro de 2013, um gerente de comunidade anunciou que a Easy Studios (desenvolvedores do Battlefield Play4Free [2]) assumiu o que restava da equipe do Quicklime Game.
+
+Recepção
+[Esconder] Recepção
+Resenha crítica
+Publicação	Nota
+GameRankings	63.83%[4]
+Metacritic	62[5]
+Pontuação global
+Agregador	Nota média
+1UP.com	C[6]
+Eurogamer	6/10[7]
+GamesRadar	6/10[8]
+GameTrailers	5.6[9]
+IGN	6/10[10]
+Need for Speed World recebeu, de modo geral, análises mistas pela crítica.
+
+O maior elogio do jogo veio de GamingXP, o qual comentou que "O jogo é uma combinação dos jogos anteriores de Need for Speed com exceção do single player que foi cortado. Adicione alguns elementos de interpretação de personagens e você tem um MMO de corrida."[11] Já o PC Format deu uma crítica negativa em sua edição de outubro de 2010, concluindo que o jogo "é uma oportunidade perdida."[12] Eurogamer comentou que "É uma verdadeira vergonha que o aspecto de MMO de NFS World é efetivamente um salão de espera desnecessariamente elaborado."[13]  
+
+Em Novembro de 2012 superou a marca de 20 Milhões de jogadores registrados.
+
+Encerramento dos Servidores
+Em 15 de abril de 2015, a EA anunciou que em 14 de julho de 2015 fecharia Need for Speed: World, e desligaria os serviços do jogo, pois a editora sentiu "que o jogo não está mais à altura do alto padrão estabelecido por a franquia Need for Speed." A capacidade de comprar SpeedBoost, e criar novas contas foi desativada desde o anúncio.
+
+Os esforços de preservação dos fãs para fazer engenharia reversa e criar uma versão jogável do jogo levaram a uma rede de servidores privados sob o título "Soapbox Race World" em 2017.[14]
