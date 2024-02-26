@@ -1,1 +1,419 @@
 FIFA 20 é um jogo eletrônico de futebol desenvolvido e publicado pela EA Sports, lançado mundialmente em 19 de setembro de 2019. Este é o vigésimo sétimo título da série FIFA e o quarto a usar o mecanismo de jogo da Frostbite para Xbox One, PS4 e PC.[1]
+
+Ligas e Competições
+São as mesmas ligas do FIFA 19, com a única adição da Liga I, a primeira divisão da Romênia.[2] Foram adicionadas em março de 2020, por meio de atualização gratuita, as principais competições continentais da América do Sul: CONMEBOL Libertadores, CONMEBOL Sul-Americana e CONMEBOL Recopa.[3][4]
+
+Ligas
+Ásia
+Austrália Austrália
+Hyundai A-League
+Arábia Saudita Arábia Saudita
+Dawry Jameel
+China China
+Chinese Super League
+Coreia do Sul Coreia do Sul
+K League Classic
+Japão Japão
+J1 League
+Europa
+Alemanha Alemanha
+Bundesliga
+2. Bundesliga
+3. Liga
+Áustria Áustria
+Austrian Football Bundesliga
+Bélgica Bélgica
+Jupiler Pro League
+Dinamarca Dinamarca
+Alka Superliga
+Escócia Escócia
+Ladbrokes Premiership
+Espanha Espanha
+LaLiga Santander
+LaLiga Smartbank
+França França
+Ligue 1 Conforama
+Domino's Ligue 2
+Países Baixos Holanda
+Eredivisie
+Inglaterra Inglaterra
+Premier League
+EFL Championship
+EFL League One
+EFL League Two
+República da Irlanda Irlanda
+League of Ireland
+Itália Itália
+Serie A TIM1
+Serie B BKT2
+Noruega Noruega
+Eliteserien
+Polónia Polônia
+Lotto Ekstraklasa
+Portugal Portugal
+Liga NOS
+Romênia Romênia
+Liga I
+Suécia Suécia
+Allsvenskan
+Suíça Suíça
+Swiss Super League
+Turquia Turquia
+Sportoto Süper Lig
+América do Norte
+Estados Unidos Estados Unidos
+Major League Soccer
+México México
+Liga BBVA Bancomer
+América do Sul
+Argentina Argentina
+Superliga Argentina SAF3
+Brasil Brasil
+Brasileirão Assaí4
+Chile Chile
+Campeonato Nacional AFP PlanVital5
+Colômbia Colômbia
+Liga Águila
+1 Juventus não está licenciada; usa uniformes genéricos e o nome "Piemonte Calcio". Outras equipes não licenciadas incluem Brescia e Lecce.
+2 Liga não licenciada; somente 5 dos 20 clubes (Benevento, Chievo, Crotone, Empoli e Frosinone) estão licenciados.
+3 Boca Juniors e River Plate não estavam licenciados quando do lançamento, usando uniformes genéricos e os nomes "Buenos Aires" e "Núñez", respectivamente. O conteúdo adicional da CONMEBOL adicionou novamente as licenças de ambas as equipes.
+4 Conta apenas com 15 equipes; Palmeiras, São Paulo, Corinthians, Flamengo e Vasco estão ausentes devido ao contrato de exclusividade com a Konami. Todos, com exceção do Corinthians, foram reintegrados ao jogo como parte do conteúdo adicional da CONMEBOL, mas não foram adicionados à Liga do Brasil - Flamengo, Palmeiras e São Paulo fazem parte do bloco de times da Copa Libertadores, enquanto o Vasco está entre as equipes da Copa Sul-Americana. Nenhum dos clubes, incluindo aqueles reintegrados ao jogo, possui jogadores reais.
+5 Colo-Colo e Universidad de Chile não estavam licenciados, usando uniformes genéricos e os nomes "CD Viñazur" e "Deportes Ñuñoa", respectivamente. O conteúdo adicional da CONMEBOL adicionou novamente as licenças de ambas as equipes.
+
+Competições Continentais
+CONMEBOL Libertadores
+CONMEBOL Sul-Americana
+CONMEBOL Recopa
+UEFA Champions League
+UEFA Europa League
+UEFA Super Cup
+Equipes
+Tivemos a adição do Al Ain, além de novas seleções: A seleção masculina e feminina da China, além das seleções feminina de Escócia e Japão.[2]
+
+Equipes do resto do mundo
+África do Sul Kaizer Chiefs
+África do Sul Orlando Pirates
+Croácia Dinamo Zagreb
+=Emirados Árabes Unidos Al Ain
+Finlândia HJK
+Grécia AEK Atenas
+Grécia Olympiacos
+Grécia Panathinaikos
+Grécia PAOK
+República Checa Slavia Praha
+República Checa Sparta Praha
+República Checa Viktoria Plzeň
+Rússia CSKA Moscou
+Rússia Lokomotiv Moscou
+Rússia Spartak Moscou
+Ucrânia Dynamo Kyiv
+Ucrânia Shakhtar Donetsk
+Estados Unidos MLS All-Stars
+Nações Unidas adidas All-Stars
+Equipes da Copa Libertadores
+
+Argentina Boca Juniors1
+Argentina Defensa y Justicia2
+Argentina Racing2
+Argentina River Plate1
+Argentina Tigre3
+Bolívia Bolívar
+Bolívia Jorge Wilstermann
+Brasil Athletico-PR2
+Brasil Flamengo3
+Brasil Grêmio2
+Brasil Palmeiras3
+Brasil Santos2
+Brasil São Paulo3
+Chile Colo-Colo1
+Chile Universidad Católica2
+Colômbia América de Cali2
+Colômbia Junior2
+Equador Barcelona de Guayaquil
+Equador Delfín
+Equador Independiente del Valle
+Equador LDU
+Paraguai Guaraní
+Paraguai Libertad
+Paraguai Olimpia
+Peru Alianza Lima
+Peru Binacional
+Uruguai Nacional
+Uruguai Peñarol
+Venezuela Caracas
+Venezuela Estudiantes de Mérida
+1 Equipe já presente em sua respectiva liga nacional; licenciada pelo DLC da CONMEBOL.
+2 Equipe já presente e licenciada (total ou parcialmente) em sua respectiva liga nacional.
+3 Equipe ausente de sua respectiva liga nacional.
+
+Equipes da Copa Sul-Americana
+
+Argentina Argentinos Juniors1
+Argentina Huracán1
+Argentina Independiente1
+Argentina Lanús1
+Argentina Unión1
+Argentina Vélez Sarsfield1
+Bolívia Always Ready
+Bolívia Blooming
+Bolívia Nacional Potosí
+Bolívia Oriente Petrolero
+Brasil Atlético-MG1
+Brasil Bahia1
+Brasil Fluminense1
+Brasil Fortaleza1
+Brasil Goiás1
+Brasil Vasco2
+Chile Audax Italiano1
+Chile Coquimbo1
+Chile Huachipato1
+Chile Unión La Calera1
+Colômbia Deportivo Cali1
+Colômbia Deportivo Pasto1
+Colômbia Millonarios1
+Colômbia Nacional de Medellín1
+Equador Aucas
+Equador Emelec
+Equador El Nacional
+Equador Universidad Católica
+Paraguai Nacional
+Paraguai River Plate
+Paraguai Sol de América
+Paraguai Sportivo Luqueño
+Peru Cusco
+Peru Grau
+Peru Melgar
+Peru Sport Huancayo
+Uruguai Fénix
+Uruguai Liverpool
+Uruguai Plaza Colonia
+Uruguai River Plate
+Venezuela Aragua
+Venezuela Llaneros
+Venezuela Mineros de Guayana
+Venezuela Zamora
+1 Equipe já presente e licenciada (total ou parcialmente) em sua respectiva liga nacional.
+2 Equipe ausente de sua respectiva liga nacional.
+
+Seleções masculinas
+África (CAF)
+
+Bandeira da África do Sul África do Sul
+Camarões Camarões
+Costa do Marfim Costa do Marfim
+Egito Egito
+Ásia (AFC)
+
+Austrália Austrália
+China China
+ Índia
+Europa (UEFA)
+
+Alemanha Alemanha
+Áustria Áustria
+Bélgica Bélgica
+Bulgária Bulgária
+Dinamarca Dinamarca
+Escócia Escócia
+Eslovénia Eslovênia
+Espanha Espanha
+Finlândia Finlândia
+França França
+Grécia Grécia
+ Hungria
+Inglaterra Inglaterra
+República da Irlanda Irlanda
+Irlanda do Norte Irlanda do Norte
+Islândia Islândia
+Itália Itália
+Noruega Noruega
+País de Gales País de Gales
+Países Baixos Países Baixos
+ Polónia
+Portugal Portugal
+Chéquia Tchéquia
+Roménia Romênia
+Rússia Rússia
+Suécia Suécia
+Suíça Suíça
+Turquia Turquia
+América do Norte, Central e Caribe (CONCACAF)
+Canadá Canadá
+Estados Unidos Estados Unidos
+México México
+América do Sul (CONMEBOL)
+Argentina Argentina
+Bolívia Bolívia
+Brasil Brasil
+Chile Chile
+Colômbia Colômbia
+Equador Equador
+Paraguai Paraguai
+Peru Peru
+Uruguai Uruguai
+Venezuela Venezuela
+Oceania (OFC)
+Nova Zelândia Nova Zelândia
+Seleções femininas
+Alemanha Alemanha
+Austrália Austrália
+Brasil Brasil
+Canadá Canadá
+China China
+Escócia Escócia
+Espanha Espanha
+Estados Unidos Estados Unidos
+França França
+Inglaterra Inglaterra
+Japão Japão
+México México
+Noruega Noruega
+Nova Zelândia Nova Zelândia
+Países Baixos Países Baixos
+Suécia Suécia
+Estádios
+Nesta edição do jogo foi perdida a licença da Allianz Arena, El Monumental e do Juventus Stadium, que foram para o PES 2020, porém foram adicionados 20 novos estádios ao jogo e também alguns estádio genéricos.[5][6]
+
+Os estádios em destaque são novos no jogo.
+
+Alemanha Alemanha
+BayArena (Bayer Leverkusen)
+Borussia-Park (Borussia Mönchengladbach)
+Commerzbank-Arena (Eintracht Frankfurt)
+HDI-Arena (Hannover 96)
+Max-Morlock-Stadion (Nürnberg)
+Mercedes-Benz Arena (Stuttgart)
+Merkur Spiel-Arena (Fortuna Düsseldorf)
+Olympiastadion (Hertha Berlin e Alemanha)
+Opel Arena (Mainz 05)
+PreZero Arena (Hoffenheim)
+Red Bull Arena (Leipzig)
+RheinEnergieStadion (Köln)
+Signal Iduna Park (Borussia Dortmund)
+Veltins-Arena (Schalke 04)
+Volksparkstadion (Hamburgo)
+Volkswagen Arena (Wolfsburg)
+Weserstadion (Werder Bremen)
+WWK-Arena (Augsburg)
+Arábia Saudita Arábia Saudita
+King Abdullah Sports City (Al-Ittihad e Al-Ahli)
+King Fahd Stadium (Al-Hilal, Al-Shabab, Al-Nassr e Arábia Saudita)
+Argentina Argentina
+Libertadores de América (Independiente)1
+Presidente Perón (Racing)1
+Canadá Canadá
+BC Place (Vancouver Whitecaps e Canadá)
+Espanha Espanha
+Anoeta (Real Sociedad)
+Balaídos (Celta Vigo)
+Benito Villamarín (Real Betis)
+Ciutat de València (Levante)
+Coliseum Alfonso Pérez (Getafe)
+El Alcoraz (Huesca)
+Gran Canaria (Las Palmas)
+José Zorrilla (Real Valladolid)
+La Cerámica (Villarreal)
+La Rosaleda (Málaga)
+Mendizorroza (Alavés)
+Mestalla (Valencia)
+Municipal de Butarque (Leganés)
+Municipal de Ipurua (Eibar)
+Municipal de Montilivi (Girona)
+Municipal de Riazor (Deportivo La Coruña)
+Ramón Sánchez Pizjuán (Sevilla)
+RCDE Stadium (Espanyol)
+San Mamés (Athletic Bilbao)
+Santiago Bernabéu (Real Madrid e Espanha)
+Vallecas (Rayo Vallecano)
+Wanda Metropolitano (Atlético de Madrid)
+Estados Unidos Estados Unidos
+CenturyLink Field (Seattle Sounders)
+Dignity Health Sports Park (Los Angeles Galaxy e Estados Unidos)
+Mercedes-Benz Stadium (Atlanta United)
+Red Bull Arena (New York Red Bulls)
+França França
+Parc des Princes (Paris Saint-Germain e França)
+Parc Olympique Lyonnais (Lyon)
+Stade Vélodrome (Olympique de Marseille)
+Inglaterra Inglaterra
+Anfield (Liverpool)
+Bramall Lane (Sheffield United)
+Britannia Stadium (Stoke City)
+Carrow Road (Norwich City)
+Craven Cottage (Fulham)
+Emirates Stadium (Arsenal)
+Etihad Stadium (Manchester City)
+Fratton Park (Portsmouth)
+Goodison Park (Everton)
+KCOM Stadium (Hull City)
+King Power Stadium (Leicester City)
+Kirklees Stadium (Huddersfield Town)
+Loftus Road (Queens Park Rangers)
+London Stadium (West Ham United)
+Molineux Stadium (Wolverhampton)
+Old Trafford (Manchester United)
+Riverside Stadium (Middlesbrough)
+Selhurst Park (Crystal Palace)
+St. James' Park (Newcastle United)
+St. Mary's Stadium (Southampton)
+Stadium of Light (Sunderland)
+Stamford Bridge (Chelsea)
+The AMEX Stadium (Brighton & Hove Albion)
+The Hawthorns (West Bromwich Albion)
+Tottenham Hotspur Stadium (Tottenham)
+Turf Moor (Burnley)
+Vicarage Road (Watford)
+Villa Park (Aston Villa)
+Vitality Stadium (Bournemouth)
+Wembley Stadium (Inglaterra)
+Itália Itália
+San Siro e Giuseppe Meazza (Milan e Internazionale)
+Stadio Olimpico (Roma, Lazio e Itália)
+Japão Japão
+Panasonic Stadium Suita (Gamba Osaka)
+México México
+Estádio Azteca (América, Cruz Azul e México)
+Países Baixos Países Baixos
+Johan Cruijff Arena (Ajax e Países Baixos)
+País de Gales País de Gales
+Cardiff City Stadium (Cardiff City)
+Liberty Stadium (Swansea City)
+Rússia Rússia
+Otkritie Arena (Spartak Moscou)
+Turquia Turquia
+Atatürk Olympic Stadium (Turquia)
+Ucrânia Ucrânia
+Donbass Arena (Shakhtar Donetsk)
+1Estádios adicionados via DLC da CONMEBOL.
+
+Estádios fictícios
+Al Jayeed Stadium
+Aloha Park
+Arena del Centenario
+Arena d'Oro
+Court Lane
+Crown Lane
+Eastpoint Arena
+El Grandioso
+El Libertador
+Estádio de las Artes
+Estádio El Medio
+Estádio Presidente G.Lopes
+Euro Park
+FIWC Stadium
+Forest Park Stadium
+Ivy Lane
+Molton Road
+O Dromo
+Sanderson Park
+Stade Municipal
+Stadio Classico
+Stadion 23. Maj
+Stadion Europa
+Stadion Hanguk
+Stadion Neder
+Stadion Olympik
+Town Park
+Union Park Stadium
+Waldstadion
+Referências
