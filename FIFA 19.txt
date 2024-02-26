@@ -1,3 +1,362 @@
 FIFA 19 é um jogo eletrônico de futebol desenvolvido e publicado pela EA Sports, que foi lançado localmente em 28 de setembro de 2018. Este é terceiro game da franquia a usar a engine de jogo da Frostbite para Xbox One, PS4 e PC.
 
 O game oferece vários modos de jogo como o Modo Carreira, A Jornada e o popular Ultimate Team, sendo que o último recebeu diversas novidades para a edição deste ano. Além dos modos de jogo, o game também tem como novidade o licenciamento da principal competição de clubes da Europa, a UEFA Champions League.
+
+Ligas
+São as mesmas ligas do FIFA 18, com a única adição da Super Liga Chinesa, a primeira divisão da China[4] e a retirada da Russian Premier League que será exclusivo do PES 2019.[5]
+
+Ásia
+Austrália Austrália
+Hyundai A-League
+Arábia Saudita Arábia Saudita
+Dawry Jameel
+China China
+Super Liga Chinesa
+Coreia do Sul Coreia do Sul
+K League Classic
+Japão Japão
+J1 League
+Europa
+Alemanha Alemanha
+Bundesliga
+2. Bundesliga
+3. Liga
+Áustria Áustria
+Austrian Football Bundesliga
+Bélgica Bélgica
+Jupiler Pro League
+Dinamarca Dinamarca
+Alka Superliga
+Escócia Escócia
+Ladbrokes Premiership
+Espanha Espanha
+LaLiga Santander
+LaLiga 1 | 2 | 3
+França França
+Ligue 1 Conforama
+Domino's Ligue 2
+Países Baixos Holanda
+Eredivisie
+Inglaterra Inglaterra
+Premier League
+EFL Championship
+EFL League One
+EFL League Two
+República da Irlanda Irlanda
+League of Ireland
+Itália Itália
+Serie A TIM
+Serie B ConTe
+Noruega Noruega
+Eliteserien
+Polónia Polônia
+Lotto Ekstraklasa
+Portugal Portugal
+Liga NOS
+Suécia Suécia
+Allsvenskan
+Suíça Suíça
+Swiss Super League
+Turquia Turquia
+Sportoto Süper Lig
+América do Norte
+Estados Unidos Estados Unidos
+Major League Soccer
+México México
+Liga BBVA Bancomer
+América do Sul
+Argentina Argentina
+Superliga Argentina SAF1
+Brasil Brasil
+Brasileirāo2
+Chile Chile
+Campeonato Nacional Scotiabank3
+Colômbia Colômbia
+Liga Águila
+1 Boca Juniors não está licenciado (exceto na Legacy Edition para Xbox 360 e PlayStation 3); usa uniformes genéricos e o nome "Buenos Aires".
+2 Conta apenas com 15 equipes; Palmeiras, São Paulo, Corinthians, Flamengo e Vasco estão ausentes devido ao contrato de exclusividade com a Konami. Nenhum dos clubes presentes possui jogadores reais.
+3 Colo-Colo não está licenciado; usa uniformes genéricos e o nome "CD Viñazur".
+
+Equipes
+Tivemos a volta de quatro equipes europeias: Dinamo Zagreb, Dynamo Kyiv, Slavia Praha e Viktoria Plzeň. Houve a perda da seleção masculina da Arábia Saudita e das seleções masculina e feminina da China, bem como das outras seleções adicionadas ao antecessor na expansão da Copa do Mundo de 2018.[5] Uma atualização do título traz todas as outras seleções femininas a participar da Copa do Mundo de Futebol Feminino de 2019 com uniformes oficiais (exceto pela Seleção da África do Sul). As versões de PlayStation 4, Xbox One e PC permitem também uma recriação virtual da final do torneio[6].
+
+Equipes do resto do mundo
+África do Sul Kaizer Chiefs
+África do Sul Orlando Pirates
+Croácia Dinamo Zagreb
+Finlândia HJK
+Grécia AEK Atenas
+Grécia Olympiacos
+Grécia Panathinaikos
+Grécia PAOK
+República Checa Slavia Praha
+República Checa Sparta Praha
+República Checa Viktoria Plzeň
+Rússia CSKA Moscou
+Rússia Lokomotiv Moscou
+Rússia Spartak Moscou
+Ucrânia Dynamo Kyiv
+Ucrânia Shakhtar Donetsk
+Estados Unidos MLS All-Stars
+Adidas All-Stars
+Nações Unidas Classic XI
+Nações Unidas World XI
+Seleções masculinas
+África (CAF)
+
+Bandeira da África do Sul África do Sul
+Camarões Camarões
+Costa do Marfim Costa do Marfim
+Egito Egito
+Ásia (AFC)
+
+Austrália Austrália
+ Índia
+Europa (UEFA)
+
+Alemanha Alemanha
+Áustria Áustria
+Bélgica Bélgica
+Bulgária Bulgária
+Dinamarca Dinamarca
+Escócia Escócia
+Eslovénia Eslovênia
+Espanha Espanha
+Finlândia Finlândia
+França França
+Grécia Grécia
+ Hungria
+Inglaterra Inglaterra
+República da Irlanda Irlanda
+Irlanda do Norte Irlanda do Norte
+Islândia Islândia
+Itália Itália
+Noruega Noruega
+País de Gales País de Gales
+Países Baixos Países Baixos
+ Polónia
+Portugal Portugal
+Chéquia Tchéquia
+Roménia Romênia
+Rússia Rússia
+Suécia Suécia
+Suíça Suíça
+Turquia Turquia
+América do Norte, Central e Caribe (CONCACAF)
+Canadá Canadá
+Estados Unidos Estados Unidos
+México México
+América do Sul (CONMEBOL)
+Argentina Argentina
+Bolívia Bolívia
+Brasil Brasil1
+Chile Chile
+Colômbia Colômbia
+Equador Equador
+Paraguai Paraguai
+Peru Peru
+Uruguai Uruguai
+Venezuela Venezuela
+Oceania (OFC)
+Nova Zelândia Nova Zelândia
+1 Todos os jogadores são fictícios, com exceção de Neymar.
+Seleções femininas
+Alemanha Alemanha
+Austrália Austrália
+Brasil Brasil1
+Canadá Canadá
+Espanha Espanha
+Estados Unidos Estados Unidos
+França França
+Inglaterra Inglaterra
+Itália Itália
+México México
+Noruega Noruega
+Nova Zelândia Nova Zelândia
+Países Baixos Países Baixos
+Suécia Suécia
+Seleções adicionais do DLC da Copa do Mundo Feminina
+África do Sul África do Sul2
+Argentina Argentina
+Camarões Camarões
+Chile Chile1
+China China
+Coreia do Sul Coreia do Sul
+Escócia Escócia
+Jamaica Jamaica
+Japão Japão
+Nigéria Nigéria
+Tailândia Tailândia
+1 Possui jogadoras fictícias.
+2 Equipamentos sem licença.
+
+Estádios
+Nesta edição, a licença do Mestalla e do Signal Iduna Park é recuperada, depois de estar ausente do FIFA 18. Também incorpora outros 16 estádios espanhóis (além do Santiago Bernabéu e do Wanda Metropolitano, já presentes no jogo anterior), contando com quase todos os palcos da Liga Espanhola (sendo a única exceção o Camp Nou, ausente devido à parceria entre o Barcelona e a Konami), além do estádio do Spartak Moscou (Otkritie Arena), do Atlanta United (Mercedes-Benz Stadium) e das 3 equipes que ascenderam à Premier League 2018-19, além do novo estádio do Tottenham (Tottenham Hotspur Stadium).[7] A única perda foi da licença do La Bombonera, exclusivo do PES 2019.[8]
+
+Os estádios em destaque são novos no jogo.
+
+Alemanha Alemanha
+Allianz Arena (Bayern de Munique)
+Borussia-Park (Borussia Mönchengladbach)
+Olympiastadion (Hertha Berlin e Alemanha)
+Signal Iduna Park (Borussia Dortmund)
+Veltins-Arena (Schalke 04)
+Volksparkstadion (Hamburgo)
+Arábia Saudita Arábia Saudita
+King Abdullah Sports City (Al-Ittihad e Al-Ahli)
+King Fahd Stadium (Al-Hilal, Al-Shabab e Al-Nassr)
+Argentina Argentina
+El Monumental (River Plate e Argentina)
+Canadá Canadá
+BC Place (Vancouver Whitecaps)
+Espanha Espanha
+Anoeta (Real Sociedad)
+Balaídos (Celta Vigo)
+Benito Villamarín (Real Betis)
+Ciutat de València (Levante)
+Coliseum Alfonso Pérez (Getafe)
+La Cerámica (Villarreal)
+Mendizorroza (Alavés)
+Mestalla (Valencia)
+Municipal de Butarque (Leganés)
+Municipal de Ipurua (Eibar)
+Municipal de Montilivi (Girona)
+Ramón Sánchez Pizjuán (Sevilla)
+RCDE Stadium (Espanyol)
+San Mamés (Athletic Bilbao)
+Santiago Bernabéu (Real Madrid)
+Wanda Metropolitano (Atlético de Madrid)
+Gran Canaria (Las Palmas)
+La Rosaleda (Málaga)
+Municipal de Riazor (Deportivo La Coruña)
+Estados Unidos Estados Unidos
+CenturyLink Field (Seattle Sounders)
+Mercedes-Benz Stadium (Atlanta United)
+StubHub Center (Los Angeles Galaxy e Estados Unidos)
+França França
+Parc des Princes (Paris Saint-Germain e França)
+Parc Olympique Lyonnais (Lyon)1
+Stade Vélodrome (Olympique de Marseille)
+Inglaterra Inglaterra
+Anfield (Liverpool)
+Craven Cottage (Fulham)
+Emirates Stadium (Arsenal)
+Etihad Stadium (Manchester City)
+Goodison Park (Everton)
+King Power Stadium (Leicester City)
+Kirklees Stadium (Huddersfield Town)
+London Stadium (West Ham United)
+Molineux Stadium (Wolverhampton)
+Old Trafford (Manchester United)
+Selhurst Park (Crystal Palace)
+St. James' Park (Newcastle United)
+St. Mary's Stadium (Southampton)
+Stamford Bridge (Chelsea)
+Falmer Stadium (Brighton & Hove Albion)
+Tottenham Hotspur Stadium (Tottenham)
+Turf Moor (Burnley)
+Vicarage Road (Watford)
+Vitality Stadium (Bournemouth)
+Britannia Stadium (Stoke City)
+Carrow Road (Norwich City)
+KCOM Stadium (Hull City)
+Loftus Road (Queens Park Rangers)
+Riverside Stadium (Middlesbrough)
+The Hawthorns (West Bromwich Albion)
+Villa Park (Aston Villa)
+Fratton Park (Portsmouth)
+Stadium of Light (Sunderland)
+Wembley Stadium (Inglaterra)
+Itália Itália
+Juventus Stadium (Juventus)
+San Siro e Giuseppe Meazza (Milan e Internazionale)
+Stadio Olimpico (Roma, Lazio e Itália)
+Japão Japão
+Panasonic Stadium Suita (Gamba Osaka)
+México México
+Estadio Azteca (América, Cruz Azul e México)
+Países Baixos Países Baixos
+Johan Cruijff Arena (Ajax e Países Baixos)
+País de Gales País de Gales
+Cardiff City Stadium (Cardiff City)
+Liberty Stadium (Swansea City)
+Rússia Rússia
+Otkritie Arena (Spartak Moscou)
+Ucrânia Ucrânia
+Donbass Arena (Shakhtar Donetsk)
+1Estádio adicionado via DLC da Copa do Mundo Feminina.
+
+Estádios fictícios
+Al Jayeed Stadium
+Aloha Park
+Arena del Centenario
+Arena d'Oro
+Court Lane
+Crown Lane
+Eastpoint Arena
+El Grandioso
+El Libertador
+Estadio de las Artes
+Estadio El Medio
+Estadio Presidente G.Lopes
+Euro Park
+FIWC Stadium
+Forest Park Stadium
+Ivy Lane
+Molton Road
+O Dromo
+Sanderson Park
+Stade Municipal
+Stadio Classico
+Stadion 23. Maj
+Stadion Europa
+Stadion Hanguk
+Stadion Neder
+Stadion Olympik
+Town Park
+Union Park Stadium
+Waldstadion
+Trilha sonora
+Inglaterra Andreya Triana - "Beautiful People"
+Inglaterra Atomic Drum Assembly - "Island Life"
+Inglaterra Bakar - "Big Dreams"
+Zimbabwe Bantu & Dr. Chaii - "Jackie Chan"
+Estados UnidosAlemanha Bas feat. J. Cole - "Tribe"
+Estados Unidos BC Unidos feat. U.S. Girls and Ledinsky - "Take It Easy"
+Noruega Bearson feat. Lemaitre & Josh Pan - "It's Not This"
+Estados Unidos Billie Eilish - "You Should See Me in a Crown"
+Canadá Bob Moses - "Heaven Only Knows"
+Nova Zelândia Broods - "Peach"
+Inglaterra Bugzy Malone - "Ordinary People"
+Estados Unidos Childish Gambino - "Feels Like Summer"
+Austrália Confidence Man - "Out the Window"
+Austrália Courtney Barnett - "City Looks Pretty"
+Inglaterra Crystal Fighters - "Another Level"
+Estados Unidos Death Cab for Cutie - "Gold Rush"
+Inglaterra Easy Life - "Pockets"
+Itália Ghali - "Habibi"
+EspanhaEstados Unidos Gizmo Varillas & Baio - "Losing You (Baio Remix)"
+Inglaterra Gorillaz - "Sorcererz"
+Inglaterra Husky Loops feat. MEI & Count Counsellor - "Everytime I Run"
+Inglaterra Jacob Banks - "Love Ain't Enough"
+Inglaterra Jungle - "Beat 54 (All Good Now)"
+Inglaterra Kojey Radical ft. Mahalia & Swindle - "Water"
+BrasilColômbiaVenezuelaEstados Unidos LADAMA - "Porro Maracatu (TOY SELECTAH Remix)"
+Colômbia Lao Ra - "Pa'lante"
+Estados Unidos Logic feat. Young Sinatra - "Warm It Up"
+Estados Unidos LSD (Labrinth, Sia, Diplo) - "Genius"
+Austrália Mansionair - "Violet City"
+Estados Unidos No/Me - "Consistent"
+AlemanhaEstados Unidos NoMBe feat. Big Data - "Drama"
+Inglaterra Ocean Wisdom - "Tom & Jerry"
+Inglaterra Octavian - "Lightning"
+Coreia do Sul Peggy Gou - "It Makes You Forget (Itgehane)"
+Inglaterra Sam Fender - "Play God"
+Inglaterra Stealth - "Truth Is"
+Inglaterra Stereo Honey - "Where No One Knows Your Name"
+Inglaterra SUN SILVA - "Blue Light"
+Inglaterra Tom Misch feat. Loyle Carner, Barney Artist, Rebel Kleff - "Good to Be Home"
+Suécia Tove Styrke - "Sway"
+Inglaterra Wovoka Gentle - "1,000 Opera Singers Working at Starbucks"
+AustráliaÁfrica do Sul Yolanda Be Cool feat. Kwanzaa Posse - "Musika"
+Austrália Young Fathers - "Border Girl"
